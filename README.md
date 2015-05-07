@@ -1,1 +1,2 @@
-lightning distro plus an initialized acsf
+#Riptide
+The base code repository for tulane.acsitefactory.com Drupal instances.
